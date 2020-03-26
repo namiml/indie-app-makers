@@ -50,5 +50,5 @@ In addition to independent app developers themselves, there are groups that are 
 
 | Organization | Social Media Account | Submitted By |
 | ------------ | -------------------- | ------------ |
-| (360anDev)[https://360andev.com/] | [@360anDev](https://twitter.com/360andev) | |
-| (360iDev)[https://360idev.com/] | [@360iDev](https://twitter.com/360idev) | |
+| [360\|anDev](https://360andev.com/) | [@360anDev](https://twitter.com/360andev) | |
+| [360\|iDev](https://360idev.com/) | [@360iDev](https://twitter.com/360idev) | |
