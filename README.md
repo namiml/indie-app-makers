@@ -39,7 +39,16 @@ This is a collection of independent app developers that we at Nami like and want
 | [PDF Archiver](https://apps.apple.com/app/apple-store/id1433801905?mt=8) |  [@JuKa1205](https://twitter.com/juka1205) |  |
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) |  [@chrisvasselli](https://twitter.com/chrisvasselli) |  |
 | [MyRadar Weather](https://myradar.com/) |  [@MyRadarWX](https://twitter.com/myradarwx) | [@ejoep](https://twitter.com/ejoep) |
-| [Nikola for Tesla](https://www.nikolaapp.com/) |  [@DavidHodge](https://twitter.com/DavidHodge) | [@burcaw](https://twitter.com/burcaw) 
+| [Nikola for Tesla](https://www.nikolaapp.com/) |  [@DavidHodge](https://twitter.com/DavidHodge) | [@burcaw](https://twitter.com/burcaw)
 | [Litur](https://litur.app/) |  [@knightbenax](https://twitter.com/knightbenax) | |
 | [Viso](https://getviso.app/) |  [@knightbenax](https://twitter.com/knightbenax) | |
-| [The Task App](https://www.twitter.com/thetaskapp/) |  [@mufasaYC](https://twitter.com/mufasaYC) | [@burcaw](https://twitter.com/burcaw) 
+| [The Task App](https://www.twitter.com/thetaskapp/) |  [@mufasaYC](https://twitter.com/mufasaYC) | [@burcaw](https://twitter.com/burcaw)
+
+# Indie App Developer Community
+
+In addition to independent app developers themselves, there are groups in the community that are also important in helping to support this community.
+
+| Organization | Social Media Account | Submitted By |
+| ------------ | -------------------- | ------------ |
+| 360\|anDev | [@360anDev])(https://twitter.com/360andev) | |
+| 360\|iDev | [@360iDev](https://twitter.com/360idev) | |
