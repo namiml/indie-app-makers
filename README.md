@@ -41,3 +41,4 @@ This is a collection of independent app developers that we at Nami like and want
 | [MyRadar Weather](https://myradar.com/) |  [@MyRadarWX](https://twitter.com/myradarwx) | [@ejoep](https://twitter.com/ejoep) |
 | [Nikola for Tesla](https://www.nikolaapp.com/) |  [@DavidHodge](https://twitter.com/DavidHodge) | [@burcaw](https://twitter.com/burcaw) 
 | [Litur](https://litur.app/) |  [@knightbenax](https://twitter.com/knightbenax) | |
+| [Viso](https://getviso.app/) |  [@knightbenax](https://twitter.com/knightbenax) | |
