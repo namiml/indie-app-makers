@@ -46,9 +46,9 @@ This is a collection of independent app developers that we at Nami like and want
 
 # Indie App Developer Community
 
-In addition to independent app developers themselves, there are groups in the community that are also important in helping to support this community.
+In addition to independent app developers themselves, there are groups that are important to helping sustain and grow this community.  We'd like to make sure they are acknowledged and supported during this time as well.
 
 | Organization | Social Media Account | Submitted By |
 | ------------ | -------------------- | ------------ |
-| 360\|anDev | [@360anDev](https://twitter.com/360andev) | |
-| 360\|iDev | [@360iDev](https://twitter.com/360idev) | |
+| (360\|anDev)[https://360andev.com/] | [@360anDev](https://twitter.com/360andev) | |
+| (360\|iDev)[https://360idev.com/] | [@360iDev](https://twitter.com/360idev) | |
