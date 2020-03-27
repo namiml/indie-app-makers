@@ -15,6 +15,7 @@ This is a collection of independent app developers that we at Nami like and want
 | App Name | Social Media Account | Submitted By |
 | -------- | -------------------- | ------------ |
 | [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) |  [@JPEGuin](https://twitter.com/JPEGuin) | [@burcaw](https://twitter.com/burcaw) |
+| [Huh?](https://apps.apple.com/app/id1330097506) |  [@yaapete](https://twitter.com/yaapete) |  |
 | [LogTen Pro](https://coradine.com/) |  [@coradine](https://twitter.com/coradine) |  |
 | [Remote Control for Mac](https://cherpake.com/) |  [@cherpake](https://twitter.com/cherpake) |  |
 | [Gus on the Go!](https://www.gusonthego.com/) |  [@yonomitt](https://twitter.com/yonomitt) |  |
