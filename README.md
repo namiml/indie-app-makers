@@ -58,4 +58,6 @@ In addition to independent app developers themselves, there are groups that are 
 
 If you are on this list or would like to show your support, feel free to link back to this repo using the badge below.
 
-<a href="https://www.namiml.com/"><img src="https://images.squarespace-cdn.com/content/v1/5df15f15776b773669d05109/1585354406190-Y30UIBOKZEX7G1YT5OQQ/ke17ZwdGBToddI8pDm48kHv3ukvUnt5tRGFOh4fQjJtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyKHkUmdqfyfC_XKyw702-gmLPHjQn85dEXwOM3ozfdGMb5z6HDZxD2Z00jHHFx8Yc/Support-Indie-Devs-Badge.png" alt="Nami Supports Indie App Developers" width="170px" align="center"></a>
+<p align="center">
+<a href="https://www.namiml.com/"><img src="https://images.squarespace-cdn.com/content/v1/5df15f15776b773669d05109/1585354406190-Y30UIBOKZEX7G1YT5OQQ/ke17ZwdGBToddI8pDm48kHv3ukvUnt5tRGFOh4fQjJtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyKHkUmdqfyfC_XKyw702-gmLPHjQn85dEXwOM3ozfdGMb5z6HDZxD2Z00jHHFx8Yc/Support-Indie-Devs-Badge.png" alt="Nami Supports Indie App Developers" width="190px"></a>
+</p>
