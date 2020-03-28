@@ -5,8 +5,6 @@
 
 This is a collection of independent app developers that we at Nami like and want to support. During the course of the COVID-19 crisis we will be promoting independent app developers in our marketing communications and social channels. If you would like your company featured on this list, please reach out to us on [twitter](https://twitter.com/HelloNamiML) or submit a PR.
 
-
-![Version](https://img.shields.io/badge/Version-0.8-blue.svg?style=flat)
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACWFBMVEXXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWkrXWko2FeWCAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAI28AACNvATX8B%2FsAAAAHdElNRQfhBQMBMCLAfV85AAAAi0lEQVQ4y2NgIBYszkPmJc5ORZE9DgEJqNxmmPS%2B43AA4h5B5TIwbD5%2BHFnoKCoXYSBMBIW7CF0eAxChoPM4ARXHB4GCZEIKKA8H%2FCoWE1LAwIBfBVp6wQA1DPhVzMJMcyggCVuqxGI%2FLhWY6Z6QPKoK7HmHkDwDwxYC8gwMdSDprXiz6PHjpQxUBgCLDfI7GXNh5gAAAABJRU5ErkJggg%3D%3D)
 
@@ -41,15 +39,23 @@ This is a collection of independent app developers that we at Nami like and want
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) |  [@chrisvasselli](https://twitter.com/chrisvasselli) |  |
 | [MyRadar Weather](https://myradar.com/) |  [@MyRadarWX](https://twitter.com/myradarwx) | [@ejoep](https://twitter.com/ejoep) |
 | [Nikola for Tesla](https://www.nikolaapp.com/) |  [@DavidHodge](https://twitter.com/DavidHodge) | [@burcaw](https://twitter.com/burcaw)
-| [Litur](https://litur.app/) |  [@knightbenax](https://twitter.com/knightbenax) | |
-| [Viso](https://getviso.app/) |  [@knightbenax](https://twitter.com/knightbenax) | |
+| [Litur](https://litur.app/) |  [@knightbenax](https://twitter.com/knightbenax) | [@knightbenax](https://twitter.com/knightbenax) |
+| [Viso](https://getviso.app/) |  [@knightbenax](https://twitter.com/knightbenax) | [@knightbenax](https://twitter.com/knightbenax) |
 | [The Task App](https://www.twitter.com/thetaskapp/) |  [@mufasaYC](https://twitter.com/mufasaYC) | [@burcaw](https://twitter.com/burcaw)
 
-# Indie App Developer Community
+# Indie App Developer Communities
 
 In addition to independent app developers themselves, there are groups that are important to helping sustain and grow this community.  We'd like to make sure they are acknowledged and supported during this time as well.
 
 | Organization | Social Media Account | Submitted By |
 | ------------ | -------------------- | ------------ |
-| [360\|anDev](https://360andev.com/) | [@360anDev](https://twitter.com/360andev) | |
-| [360\|iDev](https://360idev.com/) | [@360iDev](https://twitter.com/360idev) | |
+| [360\|anDev](https://360andev.com/) | [@360anDev](https://twitter.com/360andev) | [@a_drdro](https://twitter.com/a_drdro) |
+| [360\|iDev](https://360idev.com/) | [@360iDev](https://twitter.com/360idev) | [@a_drdro](https://twitter.com/a_drdro) |
+
+<br>
+
+# Get the Badge
+
+If you are on this list or would like to show your support, feel free to link back to this repo using the badge below.
+
+<a href="https://www.namiml.com/"><img src="https://images.squarespace-cdn.com/content/v1/5df15f15776b773669d05109/1585354406190-Y30UIBOKZEX7G1YT5OQQ/ke17ZwdGBToddI8pDm48kHv3ukvUnt5tRGFOh4fQjJtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyKHkUmdqfyfC_XKyw702-gmLPHjQn85dEXwOM3ozfdGMb5z6HDZxD2Z00jHHFx8Yc/Support-Indie-Devs-Badge.png" alt="Nami Supports Indie App Developers" width="110px" align="right"></a>
