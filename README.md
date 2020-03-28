@@ -43,6 +43,8 @@ This is a collection of independent app developers that we at Nami like and want
 | [Viso](https://getviso.app/) |  [@knightbenax](https://twitter.com/knightbenax) | [@knightbenax](https://twitter.com/knightbenax) |
 | [The Task App](https://www.twitter.com/thetaskapp/) |  [@mufasaYC](https://twitter.com/mufasaYC) | [@burcaw](https://twitter.com/burcaw)
 
+<br>
+
 # Indie App Developer Communities
 
 In addition to independent app developers themselves, there are groups that are important to helping sustain and grow this community.  We'd like to make sure they are acknowledged and supported during this time as well.
@@ -59,5 +61,5 @@ In addition to independent app developers themselves, there are groups that are 
 If you are on this list or would like to show your support, feel free to link back to this repo using the badge below.
 
 <p align="center">
-<a href="https://www.namiml.com/"><img src="https://images.squarespace-cdn.com/content/v1/5df15f15776b773669d05109/1585354406190-Y30UIBOKZEX7G1YT5OQQ/ke17ZwdGBToddI8pDm48kHv3ukvUnt5tRGFOh4fQjJtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyKHkUmdqfyfC_XKyw702-gmLPHjQn85dEXwOM3ozfdGMb5z6HDZxD2Z00jHHFx8Yc/Support-Indie-Devs-Badge.png" alt="Nami Supports Indie App Developers" width="190px"></a>
+<a href="https://twitter.com/HelloNamiML/status/1243187255579234306"><img src="https://images.squarespace-cdn.com/content/v1/5df15f15776b773669d05109/1585354406190-Y30UIBOKZEX7G1YT5OQQ/ke17ZwdGBToddI8pDm48kHv3ukvUnt5tRGFOh4fQjJtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyKHkUmdqfyfC_XKyw702-gmLPHjQn85dEXwOM3ozfdGMb5z6HDZxD2Z00jHHFx8Yc/Support-Indie-Devs-Badge.png" alt="Nami Supports Indie App Developers" width="190px"></a>
 </p>
