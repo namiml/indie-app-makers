@@ -12,9 +12,6 @@ This is a collection of independent app developers that we at Nami like and want
 
 | App Name | Social Media Account | Submitted By |
 | -------- | -------------------- | ------------ |
-| []() |  []() | []() |
-
-
 | [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) |  [@JPEGuin](https://twitter.com/JPEGuin) | [@burcaw](https://twitter.com/burcaw) |
 | [Huh?](https://apps.apple.com/app/id1330097506) |  [@yaapete](https://twitter.com/yaapete) |  |
 | [LogTen Pro](https://coradine.com/) |  [@coradine](https://twitter.com/coradine) |  |
@@ -23,14 +20,11 @@ This is a collection of independent app developers that we at Nami like and want
 | [Journey](https://2appstudio.com/journey/) |  [@2appstudio](https://twitter.com/2appstudio) |  |
 | [Quran Memorizer](https://apps.apple.com/us/app/quran-memorizer/id421890227) |  [@aijaz](https://twitter.com/_aijaz_) | [@ejoep](https://twitter.com/ejoep) |
 | [Jumbo Egg Hunt 3](https://apps.apple.com/us/app/jumbo-easter-egg-hunt-3/id1358071906) |  [@8bitavrin](https://twitter.com/8bitavrin) |  |
-
-
 | [Slopes: Ski & Snowboard](https://apps.apple.com/us/app/slopes/id643351983#?platform=iphone) |  [@parrots](https://twitter.com/parrots) |  |
 | [Clear Day - Weather HD](https://apps.apple.com/us/app/clear-day-weather-hd/id364193735) |  [@vimov](https://twitter.com/vimov) |  |
 | [Fabulous - Daily Self Care](https://apps.apple.com/us/app/fabulous-daily-planner/id1203637303#?platform=iphone) |  [@GetTheFabulous](https://twitter.com/GetTheFabulous) |  |
 | [Mathematical Run](https://apps.apple.com/us/app/mathematical-run/id1109968749) |  [@eagletap](https://twitter.com/eagletap) |  |
-| []() |  []() |  |
-
+| [Cozi Family Organizer](https://apps.apple.com/us/app/cozi-family-organizer/id407108860) |  [@CoziFamily](https://twitter.com/CoziFamily) |  |
 | [Tabular](https://chromaticlabs.com/tabular) |  [@jarod2d](https://twitter.com/jarod2d) |  |
 | [Vocable](https://www.vocable.app/) |  [@mattkubota](https://twitter.com/mattkubota) |  |
 | [Dashbird](http://www.saviapps.com/) |  [@joshbruhin](https://twitter.com/joshbruhin) | [@garrettgillas](https://twitter.com/garrettgillas) |
@@ -49,10 +43,10 @@ This is a collection of independent app developers that we at Nami like and want
 | [PDF Archiver](https://apps.apple.com/app/apple-store/id1433801905?mt=8) |  [@JuKa1205](https://twitter.com/juka1205) |  |
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) |  [@chrisvasselli](https://twitter.com/chrisvasselli) |  |
 | [MyRadar Weather](https://myradar.com/) |  [@MyRadarWX](https://twitter.com/myradarwx) | [@ejoep](https://twitter.com/ejoep) |
-| [Nikola for Tesla](https://www.nikolaapp.com/) |  [@DavidHodge](https://twitter.com/DavidHodge) | [@burcaw](https://twitter.com/burcaw)
+| [Nikola for Tesla](https://www.nikolaapp.com/) |  [@DavidHodge](https://twitter.com/DavidHodge) | [@burcaw](https://twitter.com/burcaw) |
 | [Litur](https://litur.app/) |  [@knightbenax](https://twitter.com/knightbenax) | [@knightbenax](https://twitter.com/knightbenax) |
 | [Viso](https://getviso.app/) |  [@knightbenax](https://twitter.com/knightbenax) | [@knightbenax](https://twitter.com/knightbenax) |
-| [The Task App](https://www.twitter.com/thetaskapp/) |  [@mufasaYC](https://twitter.com/mufasaYC) | [@burcaw](https://twitter.com/burcaw)
+| [The Task App](https://www.twitter.com/thetaskapp/) |  [@mufasaYC](https://twitter.com/mufasaYC) | [@burcaw](https://twitter.com/burcaw) |
 
 <br>
 
