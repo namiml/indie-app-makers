@@ -12,6 +12,9 @@ This is a collection of independent app developers that we at Nami like and want
 
 | App Name | Social Media Account | Submitted By |
 | -------- | -------------------- | ------------ |
+| []() |  []() | []() |
+
+
 | [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) |  [@JPEGuin](https://twitter.com/JPEGuin) | [@burcaw](https://twitter.com/burcaw) |
 | [Huh?](https://apps.apple.com/app/id1330097506) |  [@yaapete](https://twitter.com/yaapete) |  |
 | [LogTen Pro](https://coradine.com/) |  [@coradine](https://twitter.com/coradine) |  |
@@ -20,6 +23,14 @@ This is a collection of independent app developers that we at Nami like and want
 | [Journey](https://2appstudio.com/journey/) |  [@2appstudio](https://twitter.com/2appstudio) |  |
 | [Quran Memorizer](https://apps.apple.com/us/app/quran-memorizer/id421890227) |  [@aijaz](https://twitter.com/_aijaz_) | [@ejoep](https://twitter.com/ejoep) |
 | [Jumbo Egg Hunt 3](https://apps.apple.com/us/app/jumbo-easter-egg-hunt-3/id1358071906) |  [@8bitavrin](https://twitter.com/8bitavrin) |  |
+
+
+| [Slopes: Ski & Snowboard](https://apps.apple.com/us/app/slopes/id643351983#?platform=iphone) |  [@parrots](https://twitter.com/parrots) |  |
+| [Clear Day - Weather HD](https://apps.apple.com/us/app/clear-day-weather-hd/id364193735) |  [@vimov](https://twitter.com/vimov) |  |
+| [Fabulous - Daily Self Care](https://apps.apple.com/us/app/fabulous-daily-planner/id1203637303#?platform=iphone) |  [@GetTheFabulous](https://twitter.com/GetTheFabulous) |  |
+| [Mathematical Run](https://apps.apple.com/us/app/mathematical-run/id1109968749) |  [@eagletap](https://twitter.com/eagletap) |  |
+| []() |  []() |  |
+
 | [Tabular](https://chromaticlabs.com/tabular) |  [@jarod2d](https://twitter.com/jarod2d) |  |
 | [Vocable](https://www.vocable.app/) |  [@mattkubota](https://twitter.com/mattkubota) |  |
 | [Dashbird](http://www.saviapps.com/) |  [@joshbruhin](https://twitter.com/joshbruhin) | [@garrettgillas](https://twitter.com/garrettgillas) |
