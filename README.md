@@ -47,7 +47,9 @@ This is a collection of independent app developers that we at Nami like and want
 | [Litur](https://litur.app/) |  [@knightbenax](https://twitter.com/knightbenax) | [@knightbenax](https://twitter.com/knightbenax) |
 | [Viso](https://getviso.app/) |  [@knightbenax](https://twitter.com/knightbenax) | [@knightbenax](https://twitter.com/knightbenax) |
 | [The Task App](https://www.twitter.com/thetaskapp/) |  [@mufasaYC](https://twitter.com/mufasaYC) | [@burcaw](https://twitter.com/burcaw) |
-
+| [Watchsmith](https://www.twitter.com/WatchsmithApp/) |  [@_DavidSmith](https://twitter.com/_DavidSmith) | [@burcaw](https://twitter.com/burcaw) |
+| [Cosmicast](https://www.twitter.com/Cosmicast/) |  [@JPEGuin](https://twitter.com/JPEGuin) | [@burcaw](https://twitter.com/burcaw) |
+| [NetNewsWire](https://www.twitter.com/NetNewsWire/) |  [@brentsimmons](https://twitter.com/brentsimmons) | [@ejoep](https://twitter.com/ejoep) |
 <br>
 
 # Indie App Developer Communities
