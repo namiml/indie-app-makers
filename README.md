@@ -50,7 +50,6 @@ This is a collection of independent app developers that we at Nami like and want
 | [Watchsmith](https://www.twitter.com/WatchsmithApp/) |  [@_DavidSmith](https://twitter.com/_DavidSmith) | [@burcaw](https://twitter.com/burcaw) |
 | [Cosmicast](https://www.twitter.com/Cosmicast/) |  [@JPEGuin](https://twitter.com/JPEGuin) | [@burcaw](https://twitter.com/burcaw) |
 | [NetNewsWire](https://www.twitter.com/NetNewsWire/) |  [@brentsimmons](https://twitter.com/brentsimmons) | [@ejoep](https://twitter.com/ejoep) |
-
 | [Overcast](https://apps.apple.com/us/app/overcast/id888422857)  | [@OvercastFM](https://www.twitter.com/OvercastFM) | |
 | [Todoist](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id572688855)  | [@todoist](https://www.twitter.com/todoist) | |
 | [Flighty - Live Flight Tracker](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008)  | [@rjonesy](https://www.twitter.com/rjonesy) | |
