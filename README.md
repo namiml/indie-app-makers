@@ -50,6 +50,19 @@ This is a collection of independent app developers that we at Nami like and want
 | [Watchsmith](https://www.twitter.com/WatchsmithApp/) |  [@_DavidSmith](https://twitter.com/_DavidSmith) | [@burcaw](https://twitter.com/burcaw) |
 | [Cosmicast](https://www.twitter.com/Cosmicast/) |  [@JPEGuin](https://twitter.com/JPEGuin) | [@burcaw](https://twitter.com/burcaw) |
 | [NetNewsWire](https://www.twitter.com/NetNewsWire/) |  [@brentsimmons](https://twitter.com/brentsimmons) | [@ejoep](https://twitter.com/ejoep) |
+
+| [Overcast](https://apps.apple.com/us/app/overcast/id888422857)  | [@OvercastFM](https://www.twitter.com/OvercastFM) | |
+| [Todoist](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id572688855)  | [@todoist](https://www.twitter.com/todoist) | |
+| [Flighty - Live Flight Tracker](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008)  | [@rjonesy](https://www.twitter.com/rjonesy) | |
+| [Audm - New Yorker, Atlantic](https://apps.apple.com/us/app/audm-new-yorker-atlantic/id1138892702)  | [@audmapp](https://www.twitter.com/audmapp) | |
+| [Blinkist: 15min Book Insights](https://apps.apple.com/us/app/blinkist-books-in-15-minutes/id568839295)  | [@blinkist](https://www.twitter.com/blinkist) | |
+| [trackOmeter GPS Tracker](https://apps.apple.com/us/app/gps-tracker-gps-tracking/id540159351)  | [@trackOmeter](https://www.twitter.com/trackOmeter) | |
+| [LogoScopic](https://apps.apple.com/us/app/logoscopic-logo-maker/id955245195)  | [@Roadrocks LLC](https://www.twitter.com/roadrocksllc) | [@garrettgillas](https://twitter.com/garrettgillas) |
+| [MyTopFans for Twitter](https://apps.apple.com/us/app/mytopfans-for-twitter/id1207359918)  | [@mytopfansapp](https://www.twitter.com/mytopfansapp) | |
+| [Windy](https://apps.apple.com/us/app/windy/id800758888)  | [@kindredapps](https://www.twitter.com/kindredapps) | |
+| [Magnifying Glass & Flash Light](https://apps.apple.com/us/app/magnifier-with-flash-light/id508627598)  | [@AppLifeStyle](https://www.twitter.com/AppLifeStyle) | [@ejoep](https://twitter.com/ejoep) |
+
+
 <br>
 
 # Indie App Developer Communities
