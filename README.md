@@ -60,7 +60,7 @@ This is a collection of independent app developers that we at Nami like and want
 | [MyTopFans for Twitter](https://apps.apple.com/us/app/mytopfans-for-twitter/id1207359918)  | [@mytopfansapp](https://www.twitter.com/mytopfansapp) | |
 | [Windy](https://apps.apple.com/us/app/windy/id800758888)  | [@kindredapps](https://www.twitter.com/kindredapps) | |
 | [Magnifying Glass & Flash Light](https://apps.apple.com/us/app/magnifier-with-flash-light/id508627598)  | [@AppLifeStyle](https://www.twitter.com/AppLifeStyle) | [@ejoep](https://twitter.com/ejoep) |
-
+| [CalorieCap](https://apps.apple.com/us/app/caloriecap/id1110911044)  | [@caloriecap](https://www.twitter.com/caloriecap) | [@garrettgillas](https://twitter.com/garrettgillas) |
 
 <br>
 
