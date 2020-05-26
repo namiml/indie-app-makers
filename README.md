@@ -61,6 +61,15 @@ This is a collection of independent app developers that we at Nami like and want
 | [Windy](https://apps.apple.com/us/app/windy/id800758888)  | [@kindredapps](https://www.twitter.com/kindredapps) | |
 | [Magnifying Glass & Flash Light](https://apps.apple.com/us/app/magnifier-with-flash-light/id508627598)  | [@AppLifeStyle](https://www.twitter.com/AppLifeStyle) | [@ejoep](https://twitter.com/ejoep) |
 | [CalorieCap](https://apps.apple.com/us/app/caloriecap/id1110911044)  | [@caloriecap](https://www.twitter.com/caloriecap) | [@garrettgillas](https://twitter.com/garrettgillas) |
+| [Pomodoro Focus Timer](https://apps.apple.com/in/app/pomodoro-focus-timer/id1504867122)  | [@_pawanpreet](https://www.twitter.com/_pawanpreet) |  |
+| [End Of Days: Survival](https://apps.apple.com/ca/app/end-of-days-survival/id1478121968)  | [@Blackvoidstudio](https://www.twitter.com/Blackvoidstudio) |  |
+| [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750)  | [@mactanaka](https://www.twitter.com/mactanaka) |  |
+| [Retro Drive](https://apps.apple.com/us/app/retro-drive/id1509061636)  | [@retro_drive](https://www.twitter.com/retro_drive) |  |
+| [Weather Theme](https://apps.apple.com/us/app/weather-theme/id991589323#?platform=iphone)  | [@truemaulik](https://www.twitter.com/truemaulik) |  |
+| [Delivery Drone](https://apps.apple.com/gb/app/delivery-drone/id1473729822)  | [@Eipilice](https://www.twitter.com/Eipilice) |  |
+| [Whoozl](https://apps.apple.com/ca/app/whoozl-indie-music-discovery/id1513883077)  | [@whoozlmusic](https://www.twitter.com/whoozlmusic) |  |
+| [Krash TV](https://apps.apple.com/gb/app/krash-tv/id1406418727)  | [@rumblepackftw](https://www.twitter.com/rumblepackftw) |  |
+| [Do I need it?](https://apps.apple.com/app/do-i-need-it/id1495111840)  | [@mauro_codes](https://www.twitter.com/mauro_codes) |  |
 
 <br>
 
